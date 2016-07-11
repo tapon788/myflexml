@@ -31,7 +31,7 @@ class ManagedObjectHandler(ContentHandler):
         self.CSDAP = []
         self.ALL=[self.BSC,self.BCF,self.BTS,self.TRX,self.LAPD,self.ADCE,self.ADJW,self.HOC,self.POC,self.DAP,self.CSDAP]
 
-
+		#TEST
         self.ADCE_ADDR=[]
         self.grep=["BSC","BCF","BTS","TRX","LAPD","ADCE","ADJW","HOC","POC","DAP","CSDAP"]
 
